@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fruitlet</string>
+    <string name="search_by_name">Search By Name</string>
+    <string name="take_image">Take Image</string>
+    <string name="enter_fruit_name">Enter fruit name here</string>
+    <string name="dialog_select_prompt">Please Choose Your Method of Image Input</string>
+    <string name="dialog_select_gallery">Gallery</string>
+    <string name="dialog_select_camera">Camera</string>
+</resources>
